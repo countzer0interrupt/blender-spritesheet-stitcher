@@ -4,7 +4,7 @@ Automatic spritesheet creator for Blender
 Wrote this helpful script when using Blender as the base for spritesheet art in a pro bono project a few years back. Now using it for some homebrew game creation. Right now, it is just a basic script but I am planning on converting it into a proper Blender extension soon.
 
 ## Prerequisites
-You need Blender 3.9 and above and normal read/write permissions on the filesys.
+You need Blender 2.9 and above and normal read/write permissions on the filesys.
 
 ## Instructions
 1. Open up the Scripting Tab in Blender, drop in the .py file. You're now ready to go.
